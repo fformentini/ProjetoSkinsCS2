@@ -64,6 +64,13 @@ ProjetoSkinsCS2/
 
 ---
 
+## ☁️ Deploy
+ 
+O projeto está publicado no **Streamlit Community Cloud** e pode ser acessado pelo link abaixo:
+ 
+🔗 **https://projetoskinscs2.streamlit.app/**
+
+---
 
 ## 📌 Aprendizados
 
